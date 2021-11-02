@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/17akash/alfa_network.git
+git clone https://github.com/PEER-Inc/peer-node-installer.git
 
 cd alfa_network
 
